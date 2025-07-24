@@ -1,2 +1,2 @@
-# automl-churn-prediction
-AutoML Pipeline for Customer Churn Prediction
+# automl-heart-risk-prediction
+AutoML Pipeline for Heart Disease Prediction
