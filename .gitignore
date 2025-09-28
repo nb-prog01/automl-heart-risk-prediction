@@ -18,7 +18,6 @@ fleeting-void/
 build/
 develop-eggs/
 dist/
-data/
 downloads/
 eggs/
 .eggs/
