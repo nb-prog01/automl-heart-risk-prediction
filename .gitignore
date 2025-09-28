@@ -6,11 +6,19 @@ __pycache__/
 # C extensions
 *.so
 
+#pickled models
+*.pkl
+
+#virtual environment
+.venv/
+fleeting-void/
+
 # Distribution / packaging
 .Python
 build/
 develop-eggs/
 dist/
+data/
 downloads/
 eggs/
 .eggs/
