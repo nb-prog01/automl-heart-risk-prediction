@@ -6,9 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-#pickled models
-*.pkl
-
 #virtual environment
 .venv/
 fleeting-void/
